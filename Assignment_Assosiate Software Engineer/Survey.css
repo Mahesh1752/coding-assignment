@@ -1,0 +1,32 @@
+ *{
+        margin: 0;
+        padding: 0;
+        font-family: 'Poppins', sans-serif;
+       
+    }
+
+    .container{
+        margin-left: 400px;
+        width: 50%;
+        height: 100vh;
+        background: #0e586d;
+       font-size: 20px;
+        color: white;
+        justify-content: center;
+        box-shadow: 20px;
+    }
+    .container input
+    {
+        width: 160px;
+        height: 30px;
+        font-size: 20px;
+    }
+    .container select   
+    {
+        width: 160px;
+        height: 30px;
+        font-size: 20px;
+    }
+    
+
+   
